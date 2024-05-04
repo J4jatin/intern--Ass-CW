@@ -1,4 +1,4 @@
-# LinkedIn AI Reply Chrome Extension
+# LinkedIn AI Reply ChromeExtension
 
 This project is a Chrome extension that runs on LinkedIn and assists users in generating replies, This is a demo extension, developed using React , TypeScript and Tailwind CSS, integrated with Vite for fast development and hot module replacement (HMR).
 
