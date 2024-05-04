@@ -40,7 +40,7 @@ const Home: React.FC = () => {
     if (modalContent && modalContent.contains(e.target as Node)) {
       return;
     }
-    setIsModalOpen(false);
+    setIsMotdalOpen(false);
   };
 
   // Function to handle user input change
